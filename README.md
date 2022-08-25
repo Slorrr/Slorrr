@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Slor</h1>
+<h1 align="center">Hi, I'm Slor</h1>
 <h3 align="center">17 year old programmer</h3>
 
 - 🔭 I’m currently working on: [Interactive Pool](https://github.com/Slorrr/Interactive-Pool)
 
 - 🌱 I’m currently learning: **Node.js**
 
-- 📨 you can contact me on telegram: @Slorrrr
+- 📨 Connect me with telegram: @Slorrrr
 
 </p>
 
