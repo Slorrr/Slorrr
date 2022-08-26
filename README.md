@@ -11,6 +11,8 @@
 
 <h4 align="left">Total time coded since Aug 26 2022:</h4><a href="https://wakatime.com/@3dae75a3-68f2-44d1-a456-ea0165f226d0"><img src="https://wakatime.com/badge/user/3dae75a3-68f2-44d1-a456-ea0165f226d0.svg" alt="Total time coded since Aug 26 2022" /></a>
 
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slorrr&show_icons=true&locale=en&layout=compact" alt="slorrr" /></p>
 
 <!--START_SECTION:waka-->
